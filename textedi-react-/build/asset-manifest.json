@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/TEXT-editor-react/static/css/main.31d6cfe0.css",
+    "main.js": "/TEXT-editor-react/static/js/main.2f72462b.js",
+    "index.html": "/TEXT-editor-react/index.html",
+    "main.2f72462b.js.map": "/TEXT-editor-react/static/js/main.2f72462b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.2f72462b.js"
+  ]
+}
